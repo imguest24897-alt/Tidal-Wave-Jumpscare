@@ -11,6 +11,9 @@
 	"version": "v1.0.0",
 	"developer": "Guest4242.xml",
 	"description": ">>>>>>TIDAL>>>>>> <<<<<<WAVE<<<<<<",
+	"tags": [
+		"joke"
+	],
 	"resources": {
 		"sprites": [
 			"resources/topbanner.png",
