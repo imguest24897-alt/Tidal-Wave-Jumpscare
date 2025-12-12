@@ -1,0 +1,22 @@
+{
+	"geode": "4.10.0",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "guest4242.xml.tidal-wave-jumpscare",
+	"name": "Tidal Wave Jumpscare",
+	"version": "v1.0.0",
+	"developer": "Guest4242.xml",
+	"description": ">>>>>>TIDAL>>>>>> <<<<<<WAVE<<<<<<",
+	"resources": {
+		"sprites": [
+			"resources/topbanner.png",
+			"resources/bottombanner.png"
+		], "files": [
+			"resources/tidalwave.mp3"
+		]
+	}
+}
